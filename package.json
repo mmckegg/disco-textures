@@ -1,0 +1,17 @@
+{
+  "name": "disco-textures",
+  "version": "0.0.0",
+  "description": "Disco textures for voxel.js",
+  "author": {
+    "name": "Matt McKegg",
+    "email": "matt@wetsand.co.nz"
+  },
+  "main": "disco",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mmckegg/disco-textures.git"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
